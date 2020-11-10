@@ -1,0 +1,4 @@
+#Fri Oct 02 15:14:53 AEST 2020
+base.0=/Users/home/Desktop/prashat assigmet/book_read/build/app/intermediates/transforms/r8/release/0/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
